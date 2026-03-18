@@ -11,9 +11,14 @@ def load_global_css():
     <style>
         @import url('{FONTS["google_fonts_url"]}');
 
-        /* Force space grotesk on literally everything except icons */
-        * :not(.material-symbols-rounded):not(.material-symbols-outlined):not(.material-icons):not(i) {{
-            font-family: {FONTS['primary']}, sans-serif !important;
+        /* Apply space grotesk cleanly */
+        html, body, div, span, p, h1, h2, h3, h4, h5, h6, a, label, button, li {{
+            font-family: {FONTS['primary']}, sans-serif;
+        }}
+        
+        /* Protect Streamlit internal Material Icons from being overwritten */
+        .material-symbols-rounded, .material-symbols-outlined, .material-icons, [class*="icon"], [class*="Icon"], i {{
+            font-family: 'Material Symbols Rounded', 'Material Icons', sans-serif !important;
         }}
 
         /* Smooth animations */
