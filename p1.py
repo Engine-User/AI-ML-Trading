@@ -120,7 +120,7 @@ with st.sidebar:
 
     st.markdown(f"""
     <div class="qf-card-shiny" style="padding: 15px; text-align: center;">
-        <div style="font-size: 0.75rem; color: {COLORS['text_tertiary']}; letter-spacing: 1.5px; margin-bottom: 5px; font-weight: 600; text-transform: uppercase;">Developed by</div>
+        <div style="font-size: 0.75rem; color: {COLORS['text_tertiary']}; letter-spacing: 1.5px; margin-bottom: 5px; font-weight: 600; text-transform: uppercase;">Designed & Developed by</div>
         <div style="font-size: 1.2rem; font-weight: 800; color: {COLORS['text_primary']}; margin-bottom: 2px; text-transform: uppercase;">Engineer</div>
         <div style="font-size: 0.85rem; color: {COLORS['text_secondary']}; font-family: monospace;">contact : ggengineerco@gmail.com</div>
     </div>
