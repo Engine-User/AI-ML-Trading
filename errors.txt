@@ -1,0 +1,17 @@
+﻿c:\Users\archi\Desktop\p1\p1.py
+  c:\Users\archi\Desktop\p1\p1.py:199:26 - error: "columns" is not a known attribute of "None" (reportOptionalMemberAccess)
+  c:\Users\archi\Desktop\p1\p1.py:200:16 - error: "columns" is not a known attribute of "None" (reportOptionalMemberAccess)
+  c:\Users\archi\Desktop\p1\p1.py:200:33 - error: "columns" is not a known attribute of "None" (reportOptionalMemberAccess)
+  c:\Users\archi\Desktop\p1\p1.py:202:14 - error: Object of type "None" is not subscriptable (reportOptionalSubscript)
+  c:\Users\archi\Desktop\p1\p1.py:203:20 - error: "index" is not a known attribute of "None" (reportOptionalMemberAccess)
+  c:\Users\archi\Desktop\p1\p1.py:203:30 - error: Cannot access attribute "strftime" for class "Index"
+  ┬á┬áAttribute "strftime" is unknown (reportAttributeAccessIssue)
+  c:\Users\archi\Desktop\p1\p1.py:204:29 - error: Object of type "None" is not subscriptable (reportOptionalSubscript)
+  c:\Users\archi\Desktop\p1\p1.py:204:57 - error: Object of type "None" is not subscriptable (reportOptionalSubscript)
+  c:\Users\archi\Desktop\p1\p1.py:212:16 - error: Object of type "None" is not subscriptable (reportOptionalSubscript)
+  c:\Users\archi\Desktop\p1\p1.py:212:44 - error: Object of type "None" is not subscriptable (reportOptionalSubscript)
+  c:\Users\archi\Desktop\p1\p1.py:212:73 - error: Object of type "None" is not subscriptable (reportOptionalSubscript)
+  c:\Users\archi\Desktop\p1\p1.py:213:33 - error: Object of type "None" is not subscriptable (reportOptionalSubscript)
+  c:\Users\archi\Desktop\p1\p1.py:215:36 - error: Object of type "None" is not subscriptable (reportOptionalSubscript)
+  c:\Users\archi\Desktop\p1\p1.py:217:35 - error: Object of type "None" is not subscriptable (reportOptionalSubscript)
+14 errors, 0 warnings, 0 informations
