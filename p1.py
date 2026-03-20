@@ -37,7 +37,7 @@ from components import (
 # PAGE CONFIG (must be first Streamlit command)
 # ================================================================
 st.set_page_config(
-    page_title="Trading with Machine Learning",
+    page_title="Trade with Machine Learning",
     page_icon="💲",
     layout="wide",
     initial_sidebar_state="expanded",
