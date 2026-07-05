@@ -1,7 +1,7 @@
 # 💲 AI/ML Trading Strategies with XGBoost
 <img width="940" height="412" alt="image" src="https://github.com/user-attachments/assets/5dc70879-f417-4467-aa01-9e758c35f102" />
 
-An institutional-grade, educational **Streamlit** application that applies **XGBoost machine learning** to historical market data for multi-class trading signal generation. The system computes **33+ technical indicators**, auto-selects the best labelling strategy, evaluates model performance, explains predictions with **SHAP**, and backtests the resulting signals.
+An institutional-grade, educational application that applies **XGBoost machine learning** to historical market data for multi-class trading signal generation. The system computes **33+ technical indicators**, auto-selects the best labelling strategy, evaluates model performance, explains predictions with **SHAP**, and backtests the resulting signals.
 
 Link to live terminal - https://tradewithmachine.streamlit.app/
 > ⚠️ **Disclaimer:** This project is for educational and informational purposes only. It is **not financial advice**. Always do your own research before making investment decisions.
