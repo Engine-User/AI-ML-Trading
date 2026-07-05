@@ -3,6 +3,7 @@
 
 An institutional-grade, educational **Streamlit** application that applies **XGBoost machine learning** to historical market data for multi-class trading signal generation. The system computes **33+ technical indicators**, auto-selects the best labelling strategy, evaluates model performance, explains predictions with **SHAP**, and backtests the resulting signals.
 
+Link to live terminal - tradewithmachine.streamlit.app/
 > ⚠️ **Disclaimer:** This project is for educational and informational purposes only. It is **not financial advice**. Always do your own research before making investment decisions.
 
 ---
